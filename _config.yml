@@ -1,17 +1,17 @@
 # site settings
-title: DCLakeLock
-subtitle: Corsair RGB Files
-email: dcfreeze910@gmail.com
-description: My portfolio of personal work.
+title: Mecury Hourglass
+subtitle: DCLakeLock
+email: 
+description: An enchanted hourglass that endlessly drips.
 baseurl: "/dclakelock" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: davispcc.com # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: 3209 E 10th St
+city: Bloomington
+state: IN
+zip_code: 47408
 country: United States of America
-phone: (716) 555-5555
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -20,8 +20,8 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/DCForce
+github_url: https://github.com/DCForce
+gitlab_url: 
 googleplus_url: 
 instagram_url: 
 linkedin_url: https://www.linkedin.com/in/davis-chen-990
