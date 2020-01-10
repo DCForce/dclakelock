@@ -6,10 +6,10 @@ description: An enchanted hourglass that endlessly drips.
 baseurl: "/dclakelock" # the subpath of your site, e.g. /blog
 url: davispcc.com # the base hostname & protocol for your site
 author:
-street_address: 3209 E 10th St
-city: Bloomington
+street_address: 
+city: Fishers
 state: IN
-zip_code: 47408
+zip_code: 46038
 country: United States of America
 phone: 
 
@@ -24,7 +24,7 @@ github_url: https://github.com/DCForce
 gitlab_url: 
 googleplus_url: 
 instagram_url: 
-linkedin_url: https://www.linkedin.com/in/davis-chen-990
+linkedin_url: 
 pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/davispcchen13
