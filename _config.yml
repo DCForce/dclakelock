@@ -3,7 +3,7 @@ title: Mercury Hourglass
 subtitle: DCLakeLock
 email: 
 description: An enchanted hourglass that endlessly drips.
-baseurl: "/dclakelock" # the subpath of your site, e.g. /blog
+baseurl:  # the subpath of your site, e.g. /blog
 url: davispcc.com # the base hostname & protocol for your site
 author:
 street_address: 
@@ -14,7 +14,7 @@ country: United States of America
 phone: 
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
