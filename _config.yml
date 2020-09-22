@@ -1,33 +1,25 @@
 # site settings
-title: Mercury Hourglass
-subtitle: DCLakeLock
-email: 
-description: An enchanted hourglass that endlessly drips.
+title: 低利宅生 DZ Channel
+subtitle: Blog
+email: dzchannel@davispcc.com
+description: 低利宅生是一個分享ACGN的非主流話題、七年級懷舊話題的Podcast節目。
 baseurl:  # the subpath of your site, e.g. /blog
-url: davispcc.com # the base hostname & protocol for your site
-author:
-street_address: 
-city: Fishers
-state: IN
-zip_code: 46038
-country: United States of America
-phone: 
+url: # the base hostname & protocol for your site 
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 4
 
 # social settings
-500px_url:
-facebook_url:
-github_url: https://github.com/DCForce
-gitlab_url: 
-googleplus_url: 
-instagram_url: 
-linkedin_url: 
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/davispcchen13
+instagram_url: https://www.instagram.com/dzchannel2020/
+twitter_url: https://twitter.com/dzchannel2020
+
+# podcast platforms
+spotify_url: https://open.spotify.com/show/41emKt8hoCb0x71DhddyjD
+applepodcasts_url: https://podcasts.apple.com/podcast/id1515231624
+firstory_url: https://dzchannel.firstory.io/
+googlepodcasts_url:
+
 
 # build settings
 markdown: kramdown

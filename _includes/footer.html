@@ -1,43 +1,35 @@
 <!-- Footer -->
 	<footer id="footer">
-		<div class="inner">
+		<div class="inner" style="display: flex;">
 			<ul class="icons">
 				{% if site.twitter_url %}
-				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
-				{% endif %}
-				{% if site.googleplus_url %}
-				<li><a href="{{ site.googleplus_url }}" class="icon alt fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
-				{% endif %}
-				{% if site.facebook_url %}
-				<li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
-				{% endif %}
+				<li><a href="{{ site.twitter_url }}" class="fab fa-twitter" target="_blank"></a></li>
+				{% endif %}				
 				{% if site.instagram_url %}
-				<li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+				<li><a href="{{ site.instagram_url }}" class="fab fa-instagram" target="_blank"></a></li>
 				{% endif %}
-				{% if site.pinterest_url %}
-				<li><a href="{{ site.pinterest_url }}" class="icon alt fa-pinterest" target="_blank"><span class="label">Pinterest</span></a></li>
+				{% if site.email %}
+				<li><a href="{{ site.email }}" class="far fa-envelope" target="_blank"></a></li>
 				{% endif %}
-				{% if site.500px_url %}
-				<li><a href="{{ site.500px_url }}" class="icon alt fa-500px" target="_blank"><span class="label">500px</span></a></li>
+
+				{% if site.spotify_url %}
+				<li><a href="{{ site.spotify_url }}" class="fab fa-spotify" target="_blank"></a></li>
 				{% endif %}
-				{% if site.gitlab_url %}
-				<li><a href="{{ site.gitlab_url }}" class="icon alt fa-gitlab" target="_blank"><span class="label">GitLab</span></a></li>
+				{% if site.applepodcasts_url %}
+				<li><a href="{{ site.applepodcasts_url }}" class="fas fa-podcast" target="_blank"></a></li>
 				{% endif %}
-				{% if site.github_url %}
-				<li><a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+				{% if site.googlepodcasts_url %}
+				<li><a href="{{ site.googlepodcasts_url }}" class="icon alt fas fa-user" target="_blank"></a></li>
 				{% endif %}
-				{% if site.slack_url %}
-				<li><a href="{{ site.slack_url }}" class="icon alt fa-slack" target="_blank"><span class="label">Slack</span></a></li>
+				{% if site.firstory_url %}
+				<li><a href="{{ site.firstory_url }}" class="fas fa-user" target="_blank"></a></li>
 				{% endif %}
-				{% if site.linkedin_url %}
-				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
-				{% endif %}
+				
 			</ul>
 			<ul class="copyright">
-				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
+				<li>&copy; {{ site.title }}</li>
 				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
 				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
-
 			</ul>
 		</div>
 	</footer>

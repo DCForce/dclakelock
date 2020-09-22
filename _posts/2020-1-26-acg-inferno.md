@@ -1,7 +1,10 @@
 ---
 layout: post
 title: 折磨感的戀愛漫畫 - Inferno
-description: ACG心得
+description: 漫畫心得
+category: comic
+author: DC
+date: 2020-01-26
 image: assets/images/comic_inferno.jpg
 ---
 

@@ -1,11 +1,18 @@
 ---
 layout: home
 title: Home
-landing-title: 'The Mecury Hourglass.'
+landing-title: '低利宅生 DZ Channel'
 description: null
 image: null
 author: null
 show_tile: false
 ---
+### DC
+    - 做著UX Designer夢的Developer   
+    - 最喜歡的日子是華氏31度積雪的早晨
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+### ZZZ
+
+    - 廢柴一根~
+
+Hi大家好，這個網誌會分享一些與我們節目有關的話題、幕後心得等等。也歡迎大家到我們的Twitter, Instagram或Email留言互動。
