@@ -1,8 +1,8 @@
 ---
-title: Landing
 layout: landing
+title: 低利宅生 DZ Channel
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+image: assets/images/Blog-Landing-new.png
 nav-menu: true
 ---
 
@@ -13,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Welcome!</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Hi大家好，這裡是低利宅生。這個網誌會分享一些與節目有關的話題、幕後心得等等，算是我們節目的額外文字版。<br>也歡迎大家到我們的Twitter, Instagram留言或Email給我們回饋。</p>
 	</div>
 </section>
 

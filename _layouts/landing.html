@@ -11,8 +11,8 @@
     <body>
 
         {% include header.html %}
-
-        <section id="banner" class="style2">
+        <!--<section id="banner" class="style2">-->
+        <section id="banner">
             <div class="inner">
                 <span class="image">
                     <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
@@ -23,9 +23,11 @@
 
                 </header>
                 <div class="content">
-
-                    {{ page.description }}
-
+                    <!--{{ page.description }}-->
+                    <h5 style="text-transform: none;">{{site.description}}</h5>
+                    <ul class="actions">
+                        <li><a href="https://linktr.ee/dzchannel" target="_blank" class="button next scrolly">收聽連結</a></li>
+                    </ul>
                 </div>
             </div>
         </section>

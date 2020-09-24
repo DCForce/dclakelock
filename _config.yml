@@ -3,8 +3,8 @@ title: 低利宅生 DZ Channel
 subtitle: Blog
 email: dzchannel@davispcc.com
 description: 低利宅生是一個分享ACGN的非主流話題、七年級懷舊話題的Podcast節目。
-baseurl: /dclakelock # the subpath of your site, e.g. /blog
-url: https://davispcc.com/ # the base hostname & protocol for your site 
+baseurl: # the subpath of your site, e.g. /blog
+url: https://dzchannel.davispcc.com/ # the base hostname & protocol for your site 
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"

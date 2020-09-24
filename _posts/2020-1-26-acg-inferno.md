@@ -4,7 +4,6 @@ title: 最想推薦的沉重戀愛漫畫 - Inferno
 description: 漫畫心得
 category: comic
 author: DC
-date: 2020-01-26
 image: assets/images/comic_inferno.jpg
 ---
 
